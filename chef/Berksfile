@@ -1,0 +1,5 @@
+source "https://supermarket.chef.io"
+
+cookbook 'wordpress', '~> 3.0.0'
+
+metadata
